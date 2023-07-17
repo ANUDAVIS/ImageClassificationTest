@@ -4,12 +4,13 @@ Food Classification
 
 Step1: Dataset preprocessing
 Original Input Dataset - contains 6 folders namely ApplePie, BagelSandwich, Bibimbop, Bread, FriedRice and Pork.
-      * ApplePie - containing 93 images
-      * BagelSandwich - containing 45 images
-      * Bibimbop - containing 92 images
-      * Bread - containing 90 images
-      * FriedRice - containing 88 images
-      * Pork - containing 89 images
+
+          * ApplePie - containing 93 images
+          * BagelSandwich - containing 45 images
+          * Bibimbop - containing 92 images
+          * Bread - containing 90 images
+          * FriedRice - containing 88 images
+          * Pork - containing 89 images
 
 This dataset is splitted using splitfolders() function into train set, validation set and test set and then data augmented before training to avoid overfitting.
 
