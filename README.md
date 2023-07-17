@@ -4,7 +4,7 @@ Food Classification
 
 Step1: Dataset preprocessing:
 
-Original Input Dataset - contains 6 folders namely ApplePie, BagelSandwich, Bibimbop, Bread, FriedRice and Pork.
+Original Input Dataset - contains 6 folders named: ApplePie, BagelSandwich, Bibimbop, Bread, FriedRice and Pork.
 
           * ApplePie - containing 93 images
           * BagelSandwich - containing 45 images
