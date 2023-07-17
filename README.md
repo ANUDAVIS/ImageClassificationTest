@@ -11,7 +11,7 @@ Original Input Dataset - contains 6 folders namely ApplePie, BagelSandwich, Bibi
       * FriedRice - containing 88 images
       * Pork - containing 89 images
 
-This dataset is splitted using splitfolders() function into train set, validation set and test set and data augmented before training to avoid overfitting.
+This dataset is splitted using splitfolders() function into train set, validation set and test set and then data augmented before training to avoid overfitting.
 
 Number of classes = 6 
 
